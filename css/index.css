@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(45deg, #13547a 0%, #80d0c7 100%);
+
+}
+
+#container {
+    text-align: center;
+
+}
+
+form {
+    width: 350px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 12px;
+    border-radius: 12px;
+    text-align: center;
+
+}
+
+#info {
+    display: inline-block;
+    text-align: left;
+    margin: 12px auto;
+}
+
+button {
+    width: 100px;
+    border: 0;
+    height: 24px;
+    background-color: aquamarine;
+    border-radius: 6px;
+}
+
+#reset {
+    background-color: blueviolet;
+    color: white;
+}
+
+input {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+label {
+    font-weight: bold;
+}
+
+select,
+option {
+    text-align: center;
+    width: 200px;
+    font-size: 16px;
+
+}
+
+#calcRule {
+    background-color: deeppink;
+    border-radius: 12px;
+}

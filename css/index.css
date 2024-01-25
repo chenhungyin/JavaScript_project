@@ -8,6 +8,10 @@ body {
 
 }
 
+.title {
+    color: white;
+}
+
 form {
     width: 350px;
     background-color: antiquewhite;
@@ -30,16 +34,17 @@ button {
     height: 24px;
     background-color: aquamarine;
     border-radius: 6px;
+    margin: 0 3px;
 }
 
 #reset {
     background-color: blueviolet;
-    color: white;
+    color: black;
 }
 
 input {
     text-align: center;
-    font-size: 12px;
+    font-size: 16px;
     margin-top: 6px;
 }
 
@@ -58,4 +63,15 @@ option {
 #calcRule {
     background-color: deeppink;
     border-radius: 12px;
+}
+
+#result {
+    display: none;
+    width: 350px;
+    margin: 16px auto;
+    background-color: rgb(188, 173, 245);
+    padding: 16px;
+    color: white;
+
+
 }

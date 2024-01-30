@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(45deg, #13547a 0%, #80d0c7 100%);
+    background: linear-gradient(120deg, #13547a 0%, #80d0c7 100%);
 
 }
 
@@ -14,7 +14,7 @@ body {
 
 form {
     width: 350px;
-    background-color: antiquewhite;
+    background-color: #EEF5FF;
     margin: 0 auto;
     padding: 12px;
     border-radius: 12px;
@@ -32,13 +32,13 @@ button {
     width: 100px;
     border: 0;
     height: 24px;
-    background-color: aquamarine;
+    background-color: #B4D4FF;
     border-radius: 6px;
     margin: 0 3px;
 }
 
 #reset {
-    background-color: blueviolet;
+    background-color: #7db3fa;
     color: black;
 }
 
@@ -61,15 +61,16 @@ option {
 }
 
 #calcRule {
-    background-color: deeppink;
+    background-color: #176B87;
     border-radius: 12px;
+    color: white;
 }
 
 #result {
     display: none;
     width: 350px;
     margin: 16px auto;
-    background-color: rgb(188, 173, 245);
+    background-color: #756AB6;
     padding: 16px;
     color: white;
 
